@@ -1,0 +1,5 @@
+Assign Teams Program
+How many players are there in total?
+How many teams do you want?
+Automatic calculations follow
+There will be 30 teams and 6 player(s) without a team

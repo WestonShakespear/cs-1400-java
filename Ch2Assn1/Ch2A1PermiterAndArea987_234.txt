@@ -1,0 +1,5 @@
+Rectangle Calculation Program
+Please enter the length and width of your rectangle in whole numbers
+Automatic calculations follow
+Area: 230958
+Perimeter: 2442

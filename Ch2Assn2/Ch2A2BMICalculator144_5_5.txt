@@ -1,0 +1,8 @@
+BMI Calculation Program
+Please enter your weight rounded to the nearest pound
+Please enter how many feet tall you are.  For example, if you are 5 ft 3 inches tall, enter 5
+Please enter your remaining height in inches.  For example, if you are 5 ft 3 inches tall, enter 3
+Automatic calculations follow
+Your weight in kg rounded to 2 decimals is: 65.32
+Your height in m rounded to 2 decimals is: 1.65
+Your BMI rounded to 2 decimals is: 23.96
